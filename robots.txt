@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow internal scripts or temporary files if any
+Disallow: /scratch/
+Disallow: /tmp/
+
+# Official Sitemap Location
+Sitemap: https://kravionex.com/sitemap.xml
